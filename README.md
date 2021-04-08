@@ -3,12 +3,12 @@
 
 ## Table of Contents
   ### OpenLANE Overview
-  *Installation
-  *The OpenLANE Architecture
-  *Design Stages
-  # Day 1 Inception of open source EDA, OpenLANE and Sky130 PDK
-  *How to talk to computers
-  *SoC design and OpenLANE
-  # Day 2 Good floorplan vs bad floorplan and introduction to library cells
-  *Concepts
-  *Lab Exercises
+  * Installation
+  * The OpenLANE Architecture
+  * Design Stages
+  #### Day 1 Inception of open source EDA, OpenLANE and Sky130 PDK
+  * How to talk to computers
+  * SoC design and OpenLANE
+  #### Day 2 Good floorplan vs bad floorplan and introduction to library cells
+  * Concepts
+  * Lab Exercises
